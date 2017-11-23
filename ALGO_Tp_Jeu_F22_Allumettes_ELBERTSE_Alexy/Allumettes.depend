@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511430899 source:d:\exo_c\jeu_des_allumettes\allumettes\main.c
+	<stdio.h>
+	<stdlib.h>
+
